@@ -2,4 +2,6 @@
 # Aim
 To build a pipline that extracts data from open weather API and store it into amazon s3 bucket
 # Tech
-Python, Apache airflow, AWS
+Python
+Apache airflow
+AWS
